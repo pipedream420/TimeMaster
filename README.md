@@ -1,0 +1,1 @@
+Unofficial update has been released.<br> All credit goes to <a href="https://www.nexusmods.com/baldursgate3/mods/3986">CabooseSage</a>.<br>This is a work in progress.<br>Please feel free to contribute.
